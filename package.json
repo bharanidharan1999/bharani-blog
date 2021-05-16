@@ -1,0 +1,25 @@
+{
+    "name": "bharani-blog",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.html",
+    "dependencies": {
+        "firebase": "^8.6.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bharanidharan1999/bharani-blog.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/bharanidharan1999/bharani-blog/issues"
+    },
+    "homepage": "https://github.com/bharanidharan1999/bharani-blog#index"
+
+
+}
